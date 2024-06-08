@@ -1,0 +1,11 @@
+ISTILAH" DLM GITHUB
+1. repo = folder project kita
+2. commit = rekaman/ snapshoot dari repo kita
+3. hash = penanda unik pada sebuah commit
+4. checkout = berpindah ke sebuah commit
+5. branch = cabang dari sebuah commit
+6. merch = menggabungkan branch
+7. remote = sumber yang memiliki repo
+8. clone = mengambil repo dari commit
+9. push = mengirimkan repo ke commit
+10. pull = menagmbil commit dari repo
